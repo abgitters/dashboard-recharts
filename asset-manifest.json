@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/dashboard-recharts/static/css/main.964fdded.css",
+    "main.js": "/dashboard-recharts/static/js/main.7885f4ff.js",
+    "static/js/787.c787c5e5.chunk.js": "/dashboard-recharts/static/js/787.c787c5e5.chunk.js",
+    "index.html": "/dashboard-recharts/index.html",
+    "main.964fdded.css.map": "/dashboard-recharts/static/css/main.964fdded.css.map",
+    "main.7885f4ff.js.map": "/dashboard-recharts/static/js/main.7885f4ff.js.map",
+    "787.c787c5e5.chunk.js.map": "/dashboard-recharts/static/js/787.c787c5e5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.964fdded.css",
+    "static/js/main.7885f4ff.js"
+  ]
+}
